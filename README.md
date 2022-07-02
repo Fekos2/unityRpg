@@ -1,1 +1,3 @@
 # unityRpg
+
+Ejecutar .exe unicamente
